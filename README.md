@@ -8,15 +8,15 @@ Make sure GraphicsMagick or ImageMagick is installed on your system and properly
 
 Ubuntu:
 
-``apt-get install imagemagick
+``apt-get install imagemagick``
 
-apt-get install graphicsmagick``
+``apt-get install graphicsmagick``
 
 Mac OS X (using Homebrew):
 
-``brew install imagemagick
+``brew install imagemagick``
 
-brew install graphicsmagick``
+``brew install graphicsmagick``
 
 Instal gulp globally if you don't have installed it yet:
 
@@ -25,5 +25,4 @@ Instal gulp globally if you don't have installed it yet:
 Put icon to resize into input directory
 
 Start script by
-
 ``npm start``
